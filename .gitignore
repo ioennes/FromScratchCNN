@@ -1,5 +1,0 @@
-*.html
-.ipynb_checkpoints
-.gitignore
-/.idea
-/venv
